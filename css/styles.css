@@ -288,6 +288,10 @@ h1 > span {
     margin-top: 40px;
 }
 
+.design .margin-left {
+    margin-bottom: 60px;
+}
+
 .design-flex-container {
     display: flex;
     flex-direction: row;
