@@ -1427,5 +1427,7 @@ section {
     bottom: 223px;
     right: 18%;
     width: 76px;
+} .finish-container-top {
+    margin: 0 -20px;
 }
 }
